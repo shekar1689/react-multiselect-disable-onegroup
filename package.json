@@ -1,5 +1,5 @@
 {
-  "name": "multiselect-react-dropdown-colors-disable-for-closed",
+  "name": "multiselect-react-dropdown-disabled",
   "version": "1.0.0",
   "description": "React multiselect dropdown component with search and various features and gorupby with colors",
   "main": "dist/index.js",
