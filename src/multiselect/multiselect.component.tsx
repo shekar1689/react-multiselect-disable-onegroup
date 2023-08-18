@@ -390,6 +390,7 @@ export class Multiselect extends React.Component<IMultiselectProps, any> {
     const { isObject = false, displayValue, showCheckbox, style, singleSelect } = this.props;
     const { groupedObject } = this.state;
     return Object.keys(groupedObject).map(obj => {
+      console.log(obj, 'OOO');
 			return (
 				<React.Fragment key={obj}>
 					<li className="groupHeading" style={style['groupHeading']}>{obj}  </li>
