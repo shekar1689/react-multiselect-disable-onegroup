@@ -16,7 +16,7 @@
   "homepage": "https://multiselect-react-dropdown.vercel.app/?path=/docs/multiselect-dropdown--flat-array",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shekar1689/react-multiselect-groupby-colors.git"
+    "url": "https://github.com/shekar1689/react-multiselect-disable-onegroup.git"
   },
   "peerDependencies": {
     "react": "^16.7.0 || ^17.0.0 || ^18.0.0"
