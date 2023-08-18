@@ -1,6 +1,6 @@
 {
   "name": "multiselect-react-dropdown-disabled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React multiselect dropdown component with search and various features and gorupby with colors",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
