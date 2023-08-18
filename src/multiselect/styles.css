@@ -114,6 +114,7 @@ li.groupHeading {
   color: #908e8e;
   pointer-events: none;
   padding: 5px 15px;
+  background-color: red;
 }
 li.groupChildEle {
   padding-left: 30px;
